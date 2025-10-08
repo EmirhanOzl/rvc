@@ -160,7 +160,7 @@ dependencies:
       - msgpack==1.0.5
       - networkx==3.1
       - noisereduce==2.0.1
-      - numba==0.57.0
+      - numba==0.59.0
       - omegaconf==2.0.6
       - opencv-python==4.7.0.72
       - pooch==1.6.0
